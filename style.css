@@ -47,7 +47,7 @@ body {
 }
 
 .three {
-    
+    text-align: center;
     background-color: rgba(91, 164, 247, 0.8);
     width: 20vw;
     vertical-align: middle;
